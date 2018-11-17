@@ -176,7 +176,8 @@
       "scope":
         "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
-        "foreground": "#FAC863"
+        "foreground": "#FAC863",
+        "fontStyle": "italic"
       }
     },
     {
@@ -233,7 +234,8 @@
       "name": "Changed",
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#BB80B3"
+        "foreground": "#BB80B3",
+        "fontStyle": "italic"
       }
     },
     {
