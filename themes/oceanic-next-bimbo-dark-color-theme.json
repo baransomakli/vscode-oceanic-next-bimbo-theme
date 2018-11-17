@@ -82,7 +82,7 @@
       "scope":
         "keyword.operator, constant.other.color, punctuation, meta.tag, punctuation.definition.tag, punctuation.separator.inheritance.php, punctuation.definition.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.section.embedded, keyword.other.template, keyword.other.substitution",
       "settings": {
-        "foreground": "#5FB3B3"
+        "foreground": "#5FB3B3",
       }
     },
     {
@@ -128,7 +128,8 @@
       "scope":
         "entity.name.class, entity.name.type.class, support.type, support.class, support.orther.namespace.use.php, meta.use.php, support.other.namespace.php, markup.changed.git_gutter",
       "settings": {
-        "foreground": "#FAC863"
+        "foreground": "#FAC863",
+        "fontStyle": "italic"
       }
     },
     {
@@ -164,7 +165,8 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#BB80B3"
+        "foreground": "#BB80B3",
+        "fontStyle": "italic"
       }
     },
     {
@@ -185,7 +187,8 @@
       "name": "Changed",
       "scope": "markup.changed",
       "settings": {
-        "foreground": "#BB80B3"
+        "foreground": "#BB80B3",
+        "fontStyle": "italic"
       }
     },
     {
